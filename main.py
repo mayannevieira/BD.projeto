@@ -19,5 +19,3 @@ departamento_dao = DepartamentoDAO(client)
 
 for departamento in departamento_dao.read_all():
     print(departamento)
-
-    aaaaaaaaaaaaaaaaaaa
